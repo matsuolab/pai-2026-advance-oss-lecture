@@ -1,0 +1,4 @@
+name = "Atsushi Yoneda"            # 表示名(必須)
+github = "atsushi-rem"          # GitHub ユーザー名。ファイル名と一致させる(必須)
+message = "uv,it's so hard..."         # 一言メッセージ。140 文字以内(必須)
+favorite_oss = "PyTorch"        # 好きな OSS(任意)
