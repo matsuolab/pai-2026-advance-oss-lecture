@@ -1,0 +1,4 @@
+name = "Ocome-Oishii"            # 表示名(必須)
+github = "ocome-oishii"          # GitHub ユーザー名。ファイル名と一致させる(必須)
+message = "Hello, OSS! My name is Ocome-oishii."         # 一言メッセージ。140 文字以内(必須)
+favorite_oss = "PyTorch :)"        # 好きな OSS(任意)
