@@ -1,0 +1,4 @@
+name = "Miyashita_Nore"            # 表示名(必須)
+github = "Miyashita1111"          # GitHub ユーザー名。ファイル名と一致させる(必須)
+message = "AIの彼女がいます"         # 一言メッセージ。140 文字以内(必須)
+favorite_oss = "SideButton"        # 好きな OSS(任意)
